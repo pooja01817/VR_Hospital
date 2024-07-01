@@ -1,0 +1,38 @@
+/* WelcomePage.css */
+
+.welcome-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Ensure the container takes the full height of the viewport */
+  }
+  
+  .center-content {
+    text-align: center;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+  }
+  
+  .hospital-image {
+    width: 100%;
+    max-width: 400px;
+    margin-top: 20px;
+  }
+
+
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #fff;
+    background-color:green; /* You can change the background color as needed */
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color:green; /* Change the hover background color as needed */
+  }

@@ -1,2 +1,2 @@
-unreal project link: 
-this is the link to unreal what should be done in hospital.
+the hospital should be built in unreal engine.
+we can check the access links in documentation.
